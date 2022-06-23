@@ -1,1 +1,12 @@
 Hardware Project
+
+Component list
+1. Sonar Sensor (HC-SR04)
+2. Arduino uno (950/=)
+3. Jumper wire
+4. Passive Buzzer (32/=)
+5. Battery(9V) (55/=)
+6. Battery Connector (13/=)
+7. Led(optional)
+8. Bread Board  
+9. Multimeter (500/=)
