@@ -1,13 +1,14 @@
 Hardware Project
 
-Components
+Component list
 1. Sonar Sensor (HC-SR04) (120/=)
-2. Arduino uno (980/=)
+2. Arduino uno (950/=)
 3. Jumper wire
-4. Passive Buzzer (28/=)
+4. Passive Buzzer (32/=)
 5. Led(optional)
-6. 9V battery (55/=)
+6. Battery(9V) (55/=)
 7. Battery Connector (13/=)
-8. Bread Board (Rafi r kase 2 ta chilo. Ekta dise) 
+8. Bread Board 
 9. Resistor
-10. Multimeter (450/=)
+10. Multimeter (480/=)
+
